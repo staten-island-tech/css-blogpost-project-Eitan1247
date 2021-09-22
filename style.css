@@ -1,5 +1,17 @@
 body {
-    background-color: blanchedalmond;
+    background-color: rgb(32, 32, 32);
+     
+font-size: 25px;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.main-header {
+    color: rgb(165, 160, 62) ;
+    -webkit-text-stroke: 1px rgb(255, 255, 255);
+}
+h2{
 
+    color: rgb(162, 160, 62) ;
+    -webkit-text-stroke: .7px rgb(255, 255, 255);
+}
+    
 
-} 
