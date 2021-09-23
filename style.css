@@ -5,13 +5,24 @@ font-size: 25px;
 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .main-header {
+    text-align: center;
     color: rgb(165, 160, 62) ;
     -webkit-text-stroke: 1px rgb(255, 255, 255);
 }
-h2{
-
+#Gaba{
+text-align: center;
     color: rgb(162, 160, 62) ;
     -webkit-text-stroke: .7px rgb(255, 255, 255);
 }
     
-
+#Intro{
+    padding:17px ;
+    text-align: center;
+    color: rgb(179, 177, 88) ;
+}
+#blog1{
+    color: rgb(165, 160, 62) ;
+    -webkit-text-stroke: .5
+    px rgb(255, 255, 255);
+    background-image: url(wood.jpg) ;
+}
