@@ -20,9 +20,24 @@ text-align: center;
     text-align: center;
     color: rgb(179, 177, 88) ;
 }
-#blog1{
-    color: rgb(165, 160, 62) ;
-    -webkit-text-stroke: .5
-    px rgb(255, 255, 255);
+#blog{
+   padding-top: 10px;
+   color: rgb(165, 160, 62) ;
+   -webkit-text-stroke: 1px rgb(0, 0, 0);
+    padding-bottom: 40;
+}
+#blog{
+
+height: 70vh;
+    width: 85vh;
     background-image: url(wood.jpg) ;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+#img{
+    width: 45vh;
+    border: black;
+border-radius: 10px;
+
 }
